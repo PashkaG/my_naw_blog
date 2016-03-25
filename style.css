@@ -1,0 +1,105 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background:#444444; 
+	font:14px Trebuchet PS;
+	
+
+}
+
+a {
+	color:#333333;
+}
+
+a:hover {
+	color: #32CD32
+
+
+} 
+.wrapper {
+	width:1000px;
+	 
+	background:#fff;
+	margin: 0 auto;
+}
+.header {
+
+	width: 100%;
+	height: 170px;
+	background: #ffffff;
+	border-bottom: 12px solid #444444; 
+}
+
+#logo {
+	margin-left: 200px;	
+	height:160px;
+}
+#logo2{
+
+	margin-left: 0 auto;
+	height:160px;
+}
+.content{
+	width: 100%;
+
+}
+.left {
+	width: 780px;
+	padding: 10px;
+	float: left;
+}
+.article {
+	width: 760px;
+	padding: 10px;
+	margin-bottom: 6px;
+}
+
+.article:hover{
+	background: #eeeeee;
+}
+.article p {
+	text-indent: 30px;
+	padding-left: 20px;
+	padding: 10px;
+}
+
+
+.article img{
+	float: left;
+	margin-left: 10px;
+	height:160px; 
+}
+
+.title {
+	text-decoration: none;
+	text-align: center;
+}
+.right{
+	width: 200px;	
+	float: right;
+	padding-top: 20px;
+
+}
+.right_menu {
+	border-radius: 10px;
+
+}
+.right_menu a {
+	display: block;
+	text-align:center;
+	margin: 5px 0 ;
+
+}
+
+.footer{
+	width: 100%;
+	padding: 10px;
+	color:#aaaaaa;
+}
+
+.footer:hover {
+	color:#333333;
+}
